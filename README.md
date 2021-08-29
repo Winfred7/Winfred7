@@ -1,6 +1,6 @@
 **My Name Is Winfred**
 
-I am interested in building web applications, preferably the back-end.
+I am interested in building web applications, and am presently following the the back-end stack on Codecademy.
 
 I am currently learning how to code in:
 1. Javascript

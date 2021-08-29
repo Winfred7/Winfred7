@@ -7,7 +7,7 @@ building ***oracle pl/sql forms*** application.
 I am currently learning how to code in:
 
 1. ***Javascript***
-2. ***nodejs end express etc***
+2. ***nodejs and express etc***
 
 ### Skills
 1. Oracle Forms
